@@ -104,7 +104,7 @@ int main()
 			}
 		}
 	}
-    fclose(p);
+        fclose(p);
 	fclose(p1);
 	_getch();
 	return 0;
